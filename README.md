@@ -54,7 +54,7 @@
 
 ## 📫 Contact
 
-- [LinkedIn](linkedin.com/in/arun-raman)
+- [LinkedIn](https://www.linkedin.com/in/arun-raman)
 - 📧 Email: arunsep95@gmail.com
 - 🔗 GitHub: [ArunKothandaraman94](https://github.com/ArunKothandaraman94)
 
